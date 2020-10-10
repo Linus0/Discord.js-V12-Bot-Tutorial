@@ -1,0 +1,25 @@
+{
+  "name": "discord.v12.tutorial",
+  "version": "1.0.0",
+  "description": "This Repository is a public place for people to understand coding for Discord bots and to follow along with my tutorial videos!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linus0/Discord.js-V12-Bot-Tutorial.git"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "Linus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Linus0/Discord.js-V12-Bot-Tutorial/issues"
+  },
+  "homepage": "https://github.com/Linus0/Discord.js-V12-Bot-Tutorial#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
